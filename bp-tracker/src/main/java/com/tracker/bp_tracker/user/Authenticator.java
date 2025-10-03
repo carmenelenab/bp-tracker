@@ -1,7 +1,8 @@
-package src.main.java.tracker.user;
+package com.tracker.bp_tracker.user;
 
 import javax.security.auth.login.LoginException;
-import src.main.java.tracker.DataSource;
+
+import com.tracker.bp_tracker.DataSource;
 
 public class Authenticator {
 

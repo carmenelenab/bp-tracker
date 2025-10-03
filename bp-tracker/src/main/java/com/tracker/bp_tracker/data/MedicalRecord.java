@@ -1,4 +1,4 @@
-package src.main.java.tracker.data;
+package com.tracker.bp_tracker.data;
 
 import java.time.LocalDateTime;
 

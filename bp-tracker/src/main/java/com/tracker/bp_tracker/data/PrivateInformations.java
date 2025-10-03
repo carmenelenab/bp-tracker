@@ -1,7 +1,7 @@
-package src.main.java.tracker.data;
+package com.tracker.bp_tracker.data;
 
 import java.time.LocalDate;
-import src.main.java.tracker.details.Gender;
+import com.tracker.bp_tracker.details.Gender;
 
 public class PrivateInformations {
     private final int id;

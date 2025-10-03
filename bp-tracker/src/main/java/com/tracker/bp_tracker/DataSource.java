@@ -6,8 +6,9 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import src.main.java.tracker.user.User;
-import src.main.java.tracker.user.UserProfile;
+import com.tracker.bp_tracker.user.User;
+import com.tracker.bp_tracker.user.UserProfile;
+
 public class DataSource {
 
     public static Connection connect() {

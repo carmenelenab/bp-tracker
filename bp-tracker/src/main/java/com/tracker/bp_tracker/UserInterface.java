@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 import javax.security.auth.login.LoginException;
 
-import src.main.java.tracker.user.Authenticator;
-import com.tracker.bp_tracker.User;
-import src.main.java.tracker.user.UserProfile;
+import com.tracker.bp_tracker.user.Authenticator;
+import com.tracker.bp_tracker.user.User;
+import com.tracker.bp_tracker.user.UserProfile;
 
 public class UserInterface {
     private static Scanner scanner;

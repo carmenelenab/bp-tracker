@@ -1,4 +1,4 @@
-package src.main.java.tracker.user;
+package com.tracker.bp_tracker.user;
 
 public class User {
 
